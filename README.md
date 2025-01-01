@@ -17,4 +17,4 @@ This project leverages the power of AI and computer vision to decode sign langua
 ✨ Let’s Collaborate!
 I’m excited to share this project with the tech community and learn from your insights. If you have ideas to enhance this sign language decoder—such as integrating more gestures, improving model accuracy, or adding multilingual support—let’s connect! Share your suggestions, feedback, or creative applications in the comments below. I’d love to explore innovative possibilities and collaborate with you. 😊
 
-<img src="https://github.com/iamramzan/P9-Decoding-Sign-Language-Using-AI-OpenCV-and-MediaPipe/blob/main/Sign%20Language.png">
+[![P9: Decoding Sign Language Using AI, OpenCV, and MediaPipe](https://img.youtube.com/vi/fUKesxFIUTw/0.jpg)](https://youtu.be/fUKesxFIUTw)
