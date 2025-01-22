@@ -1,4 +1,4 @@
-## P9-Decoding-Sign-Language-Using-AI-OpenCV-and-MediaPipe
+## Decoding-Sign-Language-Using-AI-OpenCV-and-MediaPipe
 
 This project leverages the power of AI and computer vision to decode sign language gestures into actionable outputs, bridging communication gaps for people who rely on sign language. By utilizing Python 3, OpenCV, and MediaPipe, the system tracks and interprets hand gestures in real-time with high precision. Additionally, it integrates a custom-trained machine learning model to enhance gesture recognition accuracy and adaptability.
 
